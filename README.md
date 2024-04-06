@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+안녕하세요! 개발자 희망하는 po0i307e 입니다!
+
 <!--
 **Po0i037E/Po0i037E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPo0i037E%2F&count_bg=%2300B5EE&title_bg=%23B0EAF4&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
