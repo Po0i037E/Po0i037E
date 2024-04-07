@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPo0i037E%2F&count_bg=%2300B5EE&title_bg=%23B0EAF4&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
+<br><br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+<br><br>
+![tistory](https://img.shields.io/badge/tistory-E44332.svg?&style=for-the-badge&logo=tistory&logoColor=white)
